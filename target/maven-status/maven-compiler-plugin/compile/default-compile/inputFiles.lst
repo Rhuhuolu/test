@@ -1,0 +1,13 @@
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\domain\Room.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\persistence\RoomRepository.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\persistence\LessonRepository.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\persistence\TimeslotRepository.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\bootstrap\DemoDataGenerator.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\rest\LessonResource.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\rest\TimeTableResource.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\rest\TimeslotResource.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\solver\TimeTableConstraintProvider.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\domain\Lesson.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\rest\RoomResource.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\domain\TimeTable.java
+C:\Users\86159\Desktop\py\school-timetabling-main\optaplanner-timetabling\src\main\java\org\acme\schooltimetabling\domain\Timeslot.java
